@@ -188,8 +188,7 @@ function Page2() {
             <FullImage key={`L_${num}`} src={`https://gbe88.uk/B/L_${num}.webp`} alt={`리르 수록 이미지 ${num}`} />
           ))}
           <div className="bg-forest/30 border border-mint/20 rounded-xl p-4 mt-6 text-sm sm:text-[15px] text-slate-300 leading-relaxed text-center shadow-inner">
-            엔딩 이미지는 여기 수록되지 않은 별도의 이미지로, 스토리에 포함되어 있습니다.<br/>
-            <strong className="text-mint font-medium">!엔딩</strong>을 사용하셔야 나오며, 그간의 서사와 방향성이 일치하는 엔딩 이미지가 1개 나올 예정이에요!
+            엔딩 이미지는 여기 수록되지 않은 별도의 이미지로, 총 9개가 존재합니다.
           </div>
         </div>
       </section>
