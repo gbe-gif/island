@@ -207,6 +207,8 @@ function Page3() {
       </header>
 
       <section className="space-y-6">
+        <FullImage src="https://gbe88.uk/1/chibi.webp" alt="SD 캐릭터" />
+        
         <Article title="01. [!커뮤] : 섬 거주 마물 익명 커뮤">
           <div className="space-y-4 mb-5">
             <ListItem>섬 곳곳에 서식하는 다양한 마물들이 이용하는<br/>비밀스러운 익명 커뮤니티 게시판을 확인할 수 있음</ListItem>
