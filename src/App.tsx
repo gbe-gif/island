@@ -148,6 +148,8 @@ function Page2() {
           </div>
         </Article>
 
+        <FullImage src="https://gbe88.uk/1/e7.webp" alt="서비스컷 1" />
+
         <Article title="02. 성격 및 특징">
           <div className="space-y-4">
             <ListItem>긴 세월을 살아온 고대종답게 여유롭고 능글맞은 태도를 지님</ListItem>
@@ -156,6 +158,8 @@ function Page2() {
             <ListItem>웨일스어 외의 다른 언어는 절대 습득하지 못하는 최하의 어학 능력을 가졌으나<br/>발달된 오감과 야생의 눈치로 당신의 모든 것을 파악함</ListItem>
           </div>
         </Article>
+
+        <FullImage src="https://gbe88.uk/1/ee.webp" alt="서비스컷 2" />
 
         <Article title="03. 취미 및 능력">
           <div className="space-y-4">
